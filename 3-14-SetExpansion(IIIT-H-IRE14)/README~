@@ -1,0 +1,55 @@
+PROJECT DETAIL(INFORMATION RE. AND EX.)
+
+		--CODE RUNS IN JAVA--
+
+PROBLEM STATEMENT :- 
+			 SET EXPANSION(TEAM NO-14)   
+
+
+
+STUDENTS :-
+		MUJADIA VANDAN VASANT(201323602)
+		VENESSA ROSHNI TAURO(201101032)
+		MEERA PARMAR(201305529)
+		NISHITH MAHESHWARI(201002016)
+		
+
+
+
+
+HOW TO RUN 
+
+1)INSTALL
+
+only java required 
+
+2) INDEX
+   For creating the index run the start.java file which is located in the set folder. To run this file the necessary jar files must be included which are placed in the lib folder.
+
+
+
+	Setexpansion(index)
+	|			
+	|->src   
+		|--> set	
+	    		|--> Start.java
+			|--> Merge.java
+			|--> SaxHandler.java
+			|--> Secondary.java
+	    
+        |->lib
+	    	|--> .jar files
+
+
+	run Start.java with wikipidia data set as input with around 6GB free space
+
+3) SEARCH
+   To be able to query and search run the Search.java which is located in the set folder. 
+
+
+
+	Setexpansion(index)
+	|			
+	|->src   
+		|--> set	
+	    		|--> Search.java
